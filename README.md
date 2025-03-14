@@ -1,6 +1,7 @@
 # Windows-Mining-App
 farcaster coin mining app
 **Supported:** GPU and CPU Mining
+**Mining Algo:** FarHash
 
 ## Requirements
 - **Operating System:** Windows 10/11 (64-bit)
